@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Programing-1-Arek-Ohanian",
+			"path": "../../Downloads/Programing-1-Arek-Ohanian"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
